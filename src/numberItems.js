@@ -1,3 +1,4 @@
+//array of numbers 1-36
 const numberItems =
     [
       1, 2, 3, 4, 5, 6, 7, 8,
@@ -7,13 +8,12 @@ const numberItems =
       33, 34, 35, 36
     ];
   
-  
-    for (let i = numberItems.length - 1; i > 0; i--) {
-      let j = Math.floor(Math.random() * (i + 1));
-      [numberItems[i], numberItems[j]] = [numberItems[j], numberItems[i]];
-    }
-  
-  
+//random sorting an array
+
+for (let i = numberItems.length - 1; i > 0; i--) {
+    let j = Math.floor(Math.random() * (i + 1));
+    [numberItems[i], numberItems[j]] = [numberItems[j], numberItems[i]];
+}
   
 
-  export default numberItems;
+export default numberItems;
