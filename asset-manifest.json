@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Schulte-table/static/css/main.1d65bb56.chunk.css",
+    "main.js": "/Schulte-table/static/js/main.dfd6432f.chunk.js",
+    "main.js.map": "/Schulte-table/static/js/main.dfd6432f.chunk.js.map",
+    "runtime-main.js": "/Schulte-table/static/js/runtime-main.ff5b3b47.js",
+    "runtime-main.js.map": "/Schulte-table/static/js/runtime-main.ff5b3b47.js.map",
+    "static/js/2.013f5dba.chunk.js": "/Schulte-table/static/js/2.013f5dba.chunk.js",
+    "static/js/2.013f5dba.chunk.js.map": "/Schulte-table/static/js/2.013f5dba.chunk.js.map",
+    "index.html": "/Schulte-table/index.html",
+    "precache-manifest.5375838d8533c35a3862a4443715094c.js": "/Schulte-table/precache-manifest.5375838d8533c35a3862a4443715094c.js",
+    "service-worker.js": "/Schulte-table/service-worker.js",
+    "static/css/main.1d65bb56.chunk.css.map": "/Schulte-table/static/css/main.1d65bb56.chunk.css.map",
+    "static/js/2.013f5dba.chunk.js.LICENSE.txt": "/Schulte-table/static/js/2.013f5dba.chunk.js.LICENSE.txt",
+    "static/media/cat.jpg": "/Schulte-table/static/media/cat.e0cc50d0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff5b3b47.js",
+    "static/js/2.013f5dba.chunk.js",
+    "static/css/main.1d65bb56.chunk.css",
+    "static/js/main.dfd6432f.chunk.js"
+  ]
+}
